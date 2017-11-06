@@ -1,0 +1,16 @@
+{
+  "name": "hunker",
+  "version": "1.0.0",
+  "main": "lib/hunker.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "yarn test --watch lib/hunker/ test/examples/"
+  },
+  "dependencies": {
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
