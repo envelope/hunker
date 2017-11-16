@@ -1,0 +1,6 @@
+.prefixed {
+  -webkit-property-name: 20px 20px;
+  -moz-property-name: 20px 20px;
+  -ms-property-name: 20px 20px;
+  property-name: 20px 20px;
+}
